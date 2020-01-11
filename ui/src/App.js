@@ -33,6 +33,8 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <button onClick={() => this.createUser()}>Create User</button>
           <p>Group 1 Project</p>
+	  <h1> Ata Jilani </h1>
+          <h1> All Members </h1>
           <ul>
             {this.state.users.map(user => (
               <li key={user._id}>id: {user._id}</li>
