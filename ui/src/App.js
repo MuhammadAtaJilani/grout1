@@ -32,7 +32,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <button onClick={() => this.createUser()}>Create User</button>
-          <p> Group 1 Project </p>
+          <p>  Group 1 Project   </p>
 	  <h1> Group 01 Members: </h1>
           <h1> Muhammad Ata Jilani </h1>
 	  <h1> Syed Anwar Ahmed Shah </h1>
